@@ -1,0 +1,20 @@
+FORTUNA v3.1 — METAS E CONQUISTAS
+
+Esta versão simplifica o aplicativo para concentrar a experiência em metas de economia.
+
+O que mudou:
+- Navegação reduzida a Início, Minhas metas, Nova meta e Backup.
+- Removidos da interface principal os módulos de investimentos, lançamentos, contas recorrentes, orçamento e análises financeiras.
+- Nova identidade visual em preto e dourado, com três ilustrações originais: pato magnata, investidor de Wall Street e magnata cinematográfico.
+- Geração automática de depósitos em sequência crescente, decrescente ou igual.
+- Metas iniciais também corrigidas: todos os cronogramas padrão agora usam parcelas progressivas, sem repetições.
+- As sequências crescentes/decrescentes usam valores diferentes e somam exatamente o valor definido para a meta.
+- Se a meta for pequena demais para a quantidade de depósitos solicitada, a quantidade de parcelas é reduzida para preservar a progressão estrita.
+- Na atualização, cronogramas padrão ainda não iniciados são corrigidos automaticamente; metas com depósitos já concluídos e metas personalizadas são preservadas.
+- Backup e restauração locais mantidos.
+
+PUBLICAÇÃO
+Envie os arquivos para a raiz do repositório GitHub Pages, substituindo os arquivos da versão anterior. Inclua os três SVGs novos.
+
+DADOS
+Os dados continuam salvos localmente no navegador. Faça um backup antes de atualizar. Não publique arquivos pessoais de backup no repositório.
